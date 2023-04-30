@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Jeevitha
-- 👀 I’m interested in coding,learning new things
-- 🌱 I’m currently learning about logic building
-- 💞️ I’m looking to collaborate with companies who can guide me and use my knowledge to the topmost.
 - 📫 How to reach me via gmail-ganjala.jeevitha@gmail.com
 
 <!---
